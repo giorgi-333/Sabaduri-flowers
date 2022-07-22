@@ -1886,7 +1886,6 @@ img.zoom {
      margin: 0px;
 }
 form {
-     background: #308409;
      padding: 35px 30px;
 }
 .map_section figure img {
@@ -1919,7 +1918,7 @@ form {
 form a {
      font-size: 17px;
      padding: 15px 25px;
-     background-color: #f00;
+     background-color: #3eb655;
      color: #fff;
      line-height: 20px;
      border-radius: 12px;
